@@ -4,7 +4,7 @@
 		"description": "Description of the extension."
 	},
 	"commandSaveSelectedTabs": {
-		"message": "Save the selected tabs or their selected contents",
+		"message": "選択したタブまたはアイテムを保存する",
 		"description": "Command (Ctrl+Shift+Y): 'Save the selected tabs or their selected contents'"
 	},
 	"commandSaveAllTabs": {
@@ -16,11 +16,11 @@
 		"description": "Menu entry: 'Save page with SingleFile Lite'"
 	},
 	"menuSaveSelectedLinks": {
-		"message": "Save selected links",
+		"message": "選択したリンクを保存",
 		"description": "Menu entry: 'Save selected links'"
 	},
 	"menuEditPage": {
-		"message": "Annotate the page...",
+		"message": "注釈を追加...",
 		"description": "Menu entry: 'Annotate the page...'"
 	},
 	"menuEditAndSavePage": {
@@ -28,7 +28,7 @@
 		"description": "Menu entry: 'Annotate and save the page...'"
 	},
 	"menuSaveWithProfile": {
-		"message": "Save page with profile",
+		"message": "プロファイルとともに保存",
 		"description": "Menu entry: 'Save with profile'"
 	},
 	"menuViewPendingSaves": {
@@ -36,7 +36,7 @@
 		"description": "Menu entry: 'View pending saves...'"
 	},
 	"menuSelectProfile": {
-		"message": "規定（default）のプロファイルを選択",
+		"message": "既定（default）のプロファイルを選択",
 		"description": "Menu entry: 'Select the default profile'"
 	},
 	"menuUpdateRule": {
